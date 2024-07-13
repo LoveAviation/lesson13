@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lesson12</string>
+    <string name="search">Поисковая строка</string>
+    <string name="search_button_text">Искать</string>
+    <string name="HereWillBeResults">Здесь будут отображаться результаты поиска</string>
+</resources>
